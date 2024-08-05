@@ -23,7 +23,4 @@ O projeto "Extremamente Aesthetic ;)" é uma aplicação que gera arte digital m
 6. **Feedback e Iteração:** Compartilhamos as imagens com um pequeno grupo de revisão para obter feedback e fizemos ajustes conforme necessário.
 
 ## 🚀 Resultados
-O resultado foi uma série de 10 imagens digitais minimalistas e esteticamente agradáveis, cada uma apresentando um design único e sofisticado. As imagens foram usadas para criar uma galeria online que recebeu elogios pela sua originalidade e estilo consistente.
-
-## 💭 Reflexão (Opcional)
-Criar algo 'natty' (naturalmente atraente e elegante) com IA apresenta desafios únicos. Embora as IAs generativas possam criar imagens impressionantes, capturar a verdadeira essência da estética e da sofisticação requer uma combinação de criatividade humana e ajuste fino das ferramentas tecnológicas. A interação entre a visão do criador e as capacidades da IA é crucial para produzir resultados que não apenas atendam aos padrões técnicos, mas também ressoem com uma sensibilidade estética apurada.
+O resultado foi uma série de 10 imagens digitais minimalistas e esteticamente agradáveis, cada uma apresentando um design único e sofisticado.
